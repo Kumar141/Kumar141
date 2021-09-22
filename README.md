@@ -9,7 +9,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kumar141.kumar141)
 
 </p>
-<div size='20px'> Hey there! I'm Kumar Shankar. Glad that we crossed somehow in this GITHUB world :) 
+<div size='20px'> Hey there! I'm Kumar Shankar. Glad that we crossed our paths somehow in this GITHUB world :) 
 </div>
 
 <h2> About Me </h2>
