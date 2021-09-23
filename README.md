@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on Web Development Projects.
 
 
-- 🌱 I’m currently learning React 
+- 🌱 Right now I’m learning React 
 
 <!-- - 👯 I’m looking to collaborate on   -->
 
